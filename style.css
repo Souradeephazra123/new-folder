@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+  }
+  hr {
+    border-style: dotted none none;
+    color: black;
+    width: 70px;
+    height: 50%;
+    border-color: grey;
+    border-width: 5px;
+  }
+  h1{
+    color: #66BFBF;
+    font-family: cursive;
+  }
+  h3{
+    color:#66BFBF;
+    font-family:"Gill Sans Extrabold", sans-serif;
+  }
+  .backon{
+    background-color: green;
+  }
+  .broccoli{
+    background-color:red;
+  }
+  img{
+    background-color: red;
+  }
